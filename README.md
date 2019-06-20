@@ -1,2 +1,2 @@
-# Nodejs MongoDb Db connection with mongoose
+# Nodejs MongoDb connection with mongoose
 By Madhan Kumar
