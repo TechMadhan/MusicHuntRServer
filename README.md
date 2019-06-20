@@ -1,2 +1,2 @@
-# nodejs-mongodb-authentication
-A simple login and register using nodejs, mongodb, reactjs and jwt token
+# Nodejs MongoDb Db connection with mongoose
+By Madhan Kumar
