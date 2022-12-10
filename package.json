@@ -21,7 +21,7 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
     "download-file": "^0.1.5",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "free-music-archive": "^1.0.0",
     "jsonwebtoken": "^7.4.2",
     "mongodb": "^3.1.6",
