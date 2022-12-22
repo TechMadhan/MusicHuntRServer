@@ -23,7 +23,7 @@
     "download-file": "^0.1.5",
     "express": "^4.16.3",
     "free-music-archive": "^1.0.0",
-    "jsonwebtoken": "^7.4.2",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.1.6",
     "mongoose": "^5.2.15",
     "nodemon": "^1.18.3",
